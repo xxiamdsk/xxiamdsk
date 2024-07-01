@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 
-![Metrics](/github-metrics.svg)
+<a href="" style="pointer-events: none;">[Metrics](/github-metrics.svg)</a>!
 
 <h3 align="center">Languages Used</h3>
 
