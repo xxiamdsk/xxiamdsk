@@ -19,11 +19,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: xxiamdsk
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Calcutta
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-           config_twemoji: yes
+          config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
