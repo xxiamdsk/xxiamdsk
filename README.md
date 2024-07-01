@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxiamdsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <br clear="both">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&margin-w=15&margin-h=15&rank=-?&no-bg=true" alt="xxiamdsk" /></a> </p>
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&margin-w=15&margin-h=15&rank=-?" alt="xxiamdsk" /></a> </p>
 </div>
 
 
