@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: xxiamdsk/metrics@master
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: xxiamdsk
