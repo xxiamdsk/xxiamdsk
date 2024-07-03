@@ -45,7 +45,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 6
 
       - name: right
         if: ${{ success() || failure() }}
