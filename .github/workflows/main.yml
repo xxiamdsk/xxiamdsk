@@ -22,6 +22,7 @@ jobs:
           filename: left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
+          config_order: introduction,base.header,languages,discussions
           base_indepth: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
