@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 <span>
-  <img  width="395" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
-  <img  width="395" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
+  <img align="center" width="395" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
+  <img  align="center" width="395" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
 </span>
 
 
