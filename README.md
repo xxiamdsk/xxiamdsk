@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 
-[<img align="left" width="395" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">](#)
+[<img align="left" width="395" height="1085" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">](#)
 [<img align="right" width="395" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">](#)
 <h3 align="center">Languages Used</h3>
 
