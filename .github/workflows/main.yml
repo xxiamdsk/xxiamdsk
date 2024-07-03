@@ -26,7 +26,6 @@ jobs:
           base: activity, community, repositories
           # config_order: introduction, base.activity,base.community, base.repositories,languages,discussions
           base_indepth: yes
-          config_padding: 0,0
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_discussions: yes
