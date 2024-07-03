@@ -22,7 +22,7 @@ jobs:
           filename: left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
-          config_order: introduction,base.activity,base.community, base.repositories,languages,discussions
+          # config_order: introduction,base.activity,base.community, base.repositories,languages,discussions
           base_indepth: yes
           config_padding: 0,0
           plugin_introduction: yes
@@ -42,6 +42,8 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
+          plugin_stars: yes
+          plugin_stars_limit: 4
 
       - name: right
         if: ${{ success() || failure() }}
