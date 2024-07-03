@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 
-<a href="#" style="pointer-events: none;">![Metrics](/github-metrics.svg)</a>
-
+[<img align="left"  alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="right"  alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
 <h3 align="center">Languages Used</h3>
 
 

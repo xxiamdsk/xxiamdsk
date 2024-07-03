@@ -23,6 +23,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
           base_indepth: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_languages: yes
