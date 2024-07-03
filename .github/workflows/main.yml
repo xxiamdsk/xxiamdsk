@@ -63,6 +63,13 @@ jobs:
           filename: right.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          extras_css: |
+            h2 {
+            font-size: 20px;
+            svg {
+              height: 20px;
+              width: 20px;
+             }
           base_indepth: yes
           config_order: habits,notable, isocalendar, achievements
           plugin_notable: yes

@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 <div align="center">
-  <img style="padding: 10px;"  alt="🦑" width="400"  src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
-  <img alt="🦑" width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
+  <img style="padding-right: 10px; padding-top: 0px; padding-bottom: 0px;"  alt="🦑" width="400"  src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
+  <img style="padding-top: 0px; padding-bottom: 0px;" alt="🦑" width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
 </div>
 
 <div align="center">
