@@ -22,8 +22,9 @@ jobs:
           filename: left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
-          config_order: introduction,base.header,languages,discussions
+          config_order: introduction,base,languages,discussions
           base_indepth: yes
+          config_padding: 0,0
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_discussions: yes
@@ -50,7 +51,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           base_indepth: yes
-          # config_order: introduction, isocalendar, languages, notable, discussions, topics
+          config_order: habits,notable, isocalendar, achievements
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
