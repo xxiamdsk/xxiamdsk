@@ -5,29 +5,34 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: achievements.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          #output_action: gistcommitter_gist: ${{ secrets.GIST }}
+          #output_action: gistcommitte  r_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: sponsors.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           #output_action: gistcommitter_gist: ${{ secrets.GIST }}
           plugin_sponsors: yes
@@ -37,10 +42,10 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: general.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
@@ -59,11 +64,11 @@ jobs:
           plugin_discussions: yes
           
       - name: 🦑 Splatoon
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         if: ${{ success() || failure() }}
         with:
           filename: splatoon.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           #output_action: gistcommitter_gist: ${{ secrets.GIST }}
           plugin_splatoon: yes
