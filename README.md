@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
-<div style="display: flex; justify-content: space-between;">
- <img style="flex: 1; padding: 10px;" width="400" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+ <img style="flex: 4; padding: 10px;" width="400" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
   <img style="flex: 1; padding: 10px;" width="400" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
 </div>
 
