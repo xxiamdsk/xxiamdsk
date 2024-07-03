@@ -46,12 +46,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 2
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
 
       - name: right
         if: ${{ success() || failure() }}
