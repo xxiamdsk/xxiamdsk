@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
-<span>
-  <img align="center" width="400" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
-  <img  align="center" width="400" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
-</span>
-
-
-
-
+<div style="display: flex; justify-content: space-between;">
+ <img style="flex: 1; padding: 10px;" width="400" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
+  <img style="flex: 1; padding: 10px;" width="400" alt="🦑" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
+</div>
 
 <div align="center">
   <h3 align="center">Languages Used</h3>
@@ -40,7 +36,6 @@
         width="40" height="40" /> </a> </p>
 </div>
 
-
 <br clear="both">
 
 <h3 align="center">Stats</h3>
@@ -59,7 +54,5 @@
         src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&margin-w=15&margin-h=15&rank=-?"
         alt="xxiamdsk" /></a> </p>
 </div>
-
-
 
 ###
