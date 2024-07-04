@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
-<div align="center">
+<div align="center" style="pointer-events: none;">
   <img style="padding-right: 10px; padding-top: 0px; padding-bottom: 0px;"  alt="🦑" width="400"  src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
   <img style="padding-top: 0px; padding-bottom: 0px;" alt="🦑" width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
 </div>
@@ -42,7 +42,7 @@
 <h3 align="center">Stats</h3>
 
 
-<div align="center">
+<div align="center" style="pointer-events: none;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=xxiamdsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&order=2"
     height="150" alt="languages graph" />
@@ -50,7 +50,9 @@
     src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3"
     height="150" alt="streak graph" />
   <br clear="both">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+  <p> <a href="" style="pointer-events: none;"><img
         src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&margin-w=15&margin-h=15&rank=-?"
         alt="xxiamdsk" /></a> </p>
+        <!-- https://github-profile-tr/ophy.vercel.app/?username=ryo-ma&title=Followers -->
+        
 </div>
