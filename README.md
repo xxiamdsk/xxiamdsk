@@ -1,9 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 <div align="center" style="pointer-events: none;">
-  <img style="padding-right: 10px; padding-top: 0px; padding-bottom: 0px;"  alt="🦑" width="400"  src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
-  <img style="padding-top: 0px; padding-bottom: 0px;" alt="🦑" width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
+  <img style="padding-right: 10px; padding-top: 0px; padding-bottom: 0px;" alt="🦑" width="400"
+    src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
+  <img style="padding-top: 0px; padding-bottom: 0px;" alt="🦑" width="400"
+    src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
 </div>
 
 <div align="center">
@@ -50,9 +51,34 @@
     src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3"
     height="150" alt="streak graph" />
   <br clear="both">
-  <p> <a href="" style="pointer-events: none;"><img
-        src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&margin-w=15&margin-h=15&rank=-?"
-        alt="xxiamdsk" /></a> </p>
-        <!-- https://github-profile-tr/ophy.vercel.app/?username=ryo-ma&title=Followers -->
-        
+</div>
+
+
+<div align="center" style="pointer-events: none; display: flex; flex-wrap: wrap; padding: 10px; justify-content: center;">
+  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=MultiLanguage" alt="Image 1">
+  </div>
+  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Commits" alt="Image 1">
+  </div>
+  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Stars" alt="Image 1">
+  </div>
+  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Repositories" alt="Image 1">
+  </div>
+  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Experience" alt="Image 1">
+  </div>
+  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Followers" alt="Image 1">
+  </div>
+  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Issues" alt="Image 1">
+  </div>
+
+
+</div>
+
+
 </div>
