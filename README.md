@@ -50,32 +50,8 @@
   <img
     src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3"
     height="150" alt="streak graph" />
-  <br clear="both">
-</div>
-
-
-<div align="center" style="pointer-events: none; display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=MultiLanguage" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Commits" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Stars" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Repositories" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Experience" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Followers" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Issues" alt="Image 1"/>
-  </div>
+    <br clear="both">
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&margin-w=15&margin-h=15&rank=-?" alt="xxiamdsk" /></a> </p>
 </div>
 
 
