@@ -54,26 +54,28 @@
 </div>
 
 
-<div align="center" style="pointer-events: none; display: flex; flex-wrap: wrap; padding: 10px; justify-content: center;">
+<div align="center" style="pointer-events: none; display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=MultiLanguage" alt="Image 1">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=MultiLanguage" alt="Image 1"/>
   </div>
   <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Commits" alt="Image 1">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Commits" alt="Image 1"/>
   </div>
   <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Stars" alt="Image 1">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Stars" alt="Image 1"/>
   </div>
   <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Repositories" alt="Image 1">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Repositories" alt="Image 1"/>
   </div>
   <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Experience" alt="Image 1">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Experience" alt="Image 1"/>
   </div>
   <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Followers" alt="Image 1">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Followers" alt="Image 1"/>
   </div>
   <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Issues" alt="Image 1">
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Issues" alt="Image 1"/>
   </div>
 </div>
+
+
