@@ -76,9 +76,4 @@
   <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
     <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Issues" alt="Image 1">
   </div>
-
-
-</div>
-
-
 </div>
