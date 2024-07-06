@@ -56,6 +56,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&margin-w=4&rank=-?">
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=xxiamdsk&margin-w=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 
