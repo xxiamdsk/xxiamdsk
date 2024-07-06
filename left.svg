@@ -304,7 +304,7 @@ svg {
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 191kb of code in 170 edited files across 238 commits over last 12 days</small>
+                <small>estimation from 191kb of code in 171 edited files across 240 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -456,7 +456,7 @@ svg {
                                     </svg>
                                     <div class="name">
                                         <span>xxiamdsk/Vehicle-Resale-and-Service</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -504,7 +504,7 @@ svg {
                                     </svg>
                                     <div class="name">
                                         <span>xxiamdsk/Grocery-Management-System</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
