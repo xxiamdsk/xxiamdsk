@@ -54,29 +54,5 @@
 </div>
 
 
-<div align="center" style="pointer-events: none; display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=MultiLanguage" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Commits" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Stars" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Repositories" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Experience" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Followers" alt="Image 1"/>
-  </div>
-  <div style="flex: 1 1 200px; margin: 10px; max-width: 100px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&title=Issues" alt="Image 1"/>
-  </div>
-</div>
-
-![](https://github-profile-trophy.vercel.app/?username=xxiamdsk&theme=discord_old_blurple&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xxiamdsk&margin-w=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
