@@ -53,6 +53,7 @@
   <br clear="both">
 </div>
 
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=xxiamdsk&margin-w=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
