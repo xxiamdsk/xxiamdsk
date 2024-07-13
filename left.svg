@@ -37,7 +37,7 @@ svg {
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3869 Commits
+                            3875 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -304,14 +304,14 @@ svg {
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 106kb of code in 108 edited files across 245 commits over last 13 days</small>
+                <small>estimation from 105kb of code in 106 edited files across 241 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.6842105263158" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="423.6842105263158" y="0" width="36.315789473684205" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.58422731226443" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.58422731226443" y="0" width="54.415772687735576" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -323,9 +323,9 @@ svg {
                                 Python
                             </div>
                             <small>
-                                <div>174 lines</div>
-                                <div>4.76 kB</div>
-                                <div>92.11%</div>
+                                <div>98 lines</div>
+                                <div>3.04 kB</div>
+                                <div>88.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -338,7 +338,7 @@ svg {
                             <small>
                                 <div>13 lines</div>
                                 <div>408 bytes</div>
-                                <div>7.89%</div>
+                                <div>11.83%</div>
                             </small>
                         </div>
                     </section>
@@ -361,7 +361,7 @@ svg {
                                     </svg>
                                     <div class="name">
                                         <span>ad-m/github-push-action</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub actions to push back to repository eg. updated code</div>
@@ -414,7 +414,7 @@ svg {
                                     </svg>
                                     <div class="name">
                                         <span>xxiamdsk/Vehicle-Resale-and-Service</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -462,7 +462,7 @@ svg {
                                     </svg>
                                     <div class="name">
                                         <span>xxiamdsk/Grocery-Management-System</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
