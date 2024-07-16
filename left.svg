@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1168" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1071" class="">
     <defs>
         <style/>
     </defs>
@@ -304,7 +304,7 @@ svg {
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 76.1kb of code in 69 edited files across 124 commits over last 14 days</small>
+                <small>estimation from 76.3kb of code in 70 edited files across 126 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
