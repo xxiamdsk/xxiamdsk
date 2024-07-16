@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 <div align="center" style="pointer-events: none;">
-  <img style="padding-right: 10px; padding-top: 0px; padding-bottom: 0px;" alt="🦑" width="400"
+  <img style="padding-right: 10px; padding-top: 0px; padding-bottom: 0px; margin-top:0px;" alt="🦑" width="400"
     src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
   <img style="padding-top: 0px; padding-bottom: 0px;" alt="🦑" width="400"
     src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
