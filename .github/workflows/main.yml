@@ -49,7 +49,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 5
-          config_padding: 0, +10%
+          
 
       - name: right
         if: ${{ success() || failure() }}
