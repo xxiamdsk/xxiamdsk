@@ -29,10 +29,6 @@ jobs:
             h2 {
             font-size: 20px;
             }
-            svg {
-              height: 20px;
-              width: 20px;
-             }
           base_indepth: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -68,10 +64,7 @@ jobs:
             h2 {
             font-size: 20px;
             }
-            svg {
-              height: 20px;
-              width: 20px;
-             }
+            
           base_indepth: yes
           config_order: habits,notable, isocalendar, achievements
           plugin_notable: yes
