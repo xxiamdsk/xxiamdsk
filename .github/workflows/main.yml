@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "* * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -28,6 +28,7 @@ jobs:
           extras_css: |
             h2 {
             font-size: 20px;
+            }
             svg {
               height: 20px;
               width: 20px;
@@ -66,6 +67,7 @@ jobs:
           extras_css: |
             h2 {
             font-size: 20px;
+            }
             svg {
               height: 20px;
               width: 20px;
