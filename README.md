@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
-<div align="center" style="pointer-events: none;">
-  <img style="pointer-events: none;" width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
-  <img style="pointer-events: none;" width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
+<div align="center">
+  <a style="pointer-events: none;"><img width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg"></a>
+  <a style="pointer-events: none;"><img width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg"></a>
 </div>
 
 <div align="center">
   <h3 align="center">Languages Used</h3>
-  <p> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+  <p> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
       rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -48,8 +48,8 @@
   <img
     src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3"
     height="150" alt="streak graph" />
-    <br clear="both">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&margin-w=15&margin-h=15&rank=-?" alt="xxiamdsk" /></a> </p>
+  <br clear="both">
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+        src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&margin-w=15&margin-h=15&rank=-?"
+        alt="xxiamdsk" /></a> </p>
 </div>
-
-
