@@ -301,7 +301,7 @@ font-size: 20px;
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 10.4kb of code in 23 edited files across 46 commits over last 14 days</small>
+                <small>estimation from 4.85kb of code in 14 edited files across 28 commits over last 4 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -344,7 +344,7 @@ font-size: 20px;
                                     </svg>
                                     <div class="name">
                                         <span>ad-m/github-push-action</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub actions to push back to repository eg. updated code</div>
@@ -397,7 +397,7 @@ font-size: 20px;
                                     </svg>
                                     <div class="name">
                                         <span>xxiamdsk/Vehicle-Resale-and-Service</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -445,7 +445,7 @@ font-size: 20px;
                                     </svg>
                                     <div class="name">
                                         <span>xxiamdsk/Grocery-Management-System</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
