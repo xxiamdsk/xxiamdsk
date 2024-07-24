@@ -217,7 +217,7 @@ font-size: 20px;
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 8.85mb of code in 726 edited files across 218 commits</small>
+                <small>estimation from 8.85mb of code in 727 edited files across 219 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -301,7 +301,7 @@ font-size: 20px;
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.87kb of code in 15 edited files across 30 commits over last 7 days</small>
+                <small>estimation from 4.87kb of code in 15 edited files across 30 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -344,7 +344,7 @@ font-size: 20px;
                                     </svg>
                                     <div class="name">
                                         <span>ad-m/github-push-action</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub actions to push back to repository eg. updated code</div>
@@ -397,7 +397,7 @@ font-size: 20px;
                                     </svg>
                                     <div class="name">
                                         <span>xxiamdsk/Vehicle-Resale-and-Service</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -445,7 +445,7 @@ font-size: 20px;
                                     </svg>
                                     <div class="name">
                                         <span>xxiamdsk/Grocery-Management-System</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
