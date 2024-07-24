@@ -15,13 +15,13 @@ jobs:
       contents: write
     steps:
 
-      - name: left
+      - name: secondary
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           user: xxiamdsk
           template: classic
-          filename: left.svg
+          filename: secondary.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
           # config_order: introduction, base.activity,base.community, base.repositories,languages,discussions
@@ -48,25 +48,13 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_stars: yes
-          plugin_stars_limit: 5
-          
+          plugin_stars_limit: 5 
 
-      - name: right
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          user: xxiamdsk
-          template: classic
-          filename: right.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          extras_css: |
-            h2 {
-            font-size: 20px;
-            }
-            
-          base_indepth: yes
-          config_order: habits,notable, isocalendar, achievements
+          # config_order: habits,notable, isocalendar, achievements
+          plugin_topics: yes
+          plugin_topics_limit: 30
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
@@ -90,13 +78,13 @@ jobs:
           plugin_achievements_threshold: X
           plugin_fortune: yes
 
-      - name: secondary
+      - name: primary
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           user: xxiamdsk
           template: classic
-          filename: secondary.svg
+          filename: primary.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
           # config_order: introduction, base.activity,base.community, base.repositories,languages,discussions

@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
-<div align="center">
-  <img width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
-  <img width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
-</div>
-
 <div>
   <picture>
-    <source media="(min-width: 600px)" srcset="secondary.svg" />
-    <source media="(min-width: 400px) and (max-width: 599px)" srcset="left.svg" />
-    <source media="(min-width: 400px) and (max-width: 599px)" srcset="right.svg" />
+    <source media="(min-width: 600px)" srcset="primary.svg" />
+    <source media="(min-width: 400px) and (max-width: 599px)" srcset="secondary.svg" />
     <img src="3.png" alt="Chris standing up holding his daughter Elva" />
   </picture>
 </div>
-
 
 
 
