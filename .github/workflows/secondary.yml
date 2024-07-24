@@ -1,0 +1,77 @@
+
+name: Metrics
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 0 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+
+      - name: secondary
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          user: xxiamdsk
+          template: classic
+          filename: secondary.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity, community, repositories
+          # config_order: introduction, base.activity,base.community, base.repositories,languages,discussions
+          extras_css: |
+            h2 {
+            font-size: 20px;
+            }
+          base_indepth: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 5
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_threshold: 0%
+          plugin_stars: yes
+          plugin_stars_limit: 5
+
+          config_order: habits,notable, isocalendar, achievements
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_self: yes
+          plugin_notable_types: commit
+          repositories_forks: yes
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 99
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+          plugin_fortune: yes
+
+          
