@@ -7,11 +7,14 @@
 
 <div>
   <picture>
-    <source media="(max-width: 799px)" srcset="" />
-    <source media="(min-width: 800px)" srcset="right.svg" />
+    <source media="(min-width: 768px) and (max-width: 1024px)" srcset="" />
+    <source media="(min-width: 1025px) and (max-width: 1280px)" srcset="right.svg" />
     <img src="3.png" alt="Chris standing up holding his daughter Elva" />
   </picture>
 </div>
+
+
+
 
 <div align="center">
   <h3 align="center">Languages Used</h3>
