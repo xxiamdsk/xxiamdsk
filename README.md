@@ -7,7 +7,7 @@
 
 <div>
   <picture>
-    <source media="(max-width: 799px)" srcset="left.svg" />
+    <source media="(max-width: 799px)" srcset="" />
     <source media="(min-width: 800px)" srcset="right.svg" />
     <img src="3.png" alt="Chris standing up holding his daughter Elva" />
   </picture>
