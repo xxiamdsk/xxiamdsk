@@ -5,6 +5,14 @@
   <a style="pointer-events: none;"><img width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg"></a>
 </div>
 
+<div>
+  <picture>
+    <source media="(max-width: 799px)" srcset="left.svg" />
+    <source media="(min-width: 800px)" srcset="right.svg" />
+    <img src="3.png" alt="Chris standing up holding his daughter Elva" />
+  </picture>
+</div>
+
 <div align="center">
   <h3 align="center">Languages Used</h3>
   <p> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img
