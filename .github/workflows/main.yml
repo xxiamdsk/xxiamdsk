@@ -124,7 +124,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_stars: yes
-          plugin_stars_limit: 5
+          plugin_stars_limit: 6
 
         # config_order: habits,notable, isocalendar, achievements
           plugin_topics: yes
@@ -145,8 +145,8 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: half-year
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 99

@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
 <div align="center">
-  <a herf="" style="pointer-events: none;"><img width="400" style="pointer-events: none;" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg"></a>
-  <a style="pointer-events: none;"><img width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg"></a>
+  <img width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/left.svg">
+  <img width="400" src="https://github.com/xxiamdsk/xxiamdsk/blob/main/right.svg">
 </div>
 
 <div>
   <picture>
-    <source media="(min-width: 600px)" srcset="left.svg" />
+    <source media="(min-width: 600px)" srcset="secondary.svg" />
+    <source media="(min-width: 400px) and (max-width: 599px)" srcset="left.svg" />
     <source media="(min-width: 400px) and (max-width: 599px)" srcset="right.svg" />
     <img src="3.png" alt="Chris standing up holding his daughter Elva" />
   </picture>
@@ -52,7 +53,7 @@
 <h3 align="center">Stats</h3>
 
 
-<div align="center" style="pointer-events: none;">
+<div align="center" >
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=xxiamdsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&order=2"
     height="150" alt="languages graph" />
