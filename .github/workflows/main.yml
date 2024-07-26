@@ -12,7 +12,7 @@ jobs:
     environment: 
       name: production
     permissions:
-      contents: writez
+      contents: write
     steps:
 
       - name: secondary
