@@ -20,7 +20,7 @@ jobs:
       - name: update header file
         run: |
           # Replace the line containing 'Original Line' with 'New Static Content'
-          sed -i 's/Original Line/New Static Content/' source/templates/classic/partials/base.header.ejs
+          sed -i 's/Original Line/New Static Content/' base.header.ejs
       
       - name: commit and push changes
         run: |
