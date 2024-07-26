@@ -15,15 +15,8 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Clone other repository
-        run: |
-          git clone https://github.com/lowlighter/metrics.git
-        env:
-          token: ${{ secrets.METRICS_TOKEN }}
+        uses: actions/checkout@v2
+        
       - name: update header file
         run: |
           # Replace the line containing 'Original Line' with 'New Static Content'
