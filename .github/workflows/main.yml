@@ -15,17 +15,15 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
-      
-      - name: Set up Node.js # Optional, based on your environment
-        uses: actions/setup-node@v2
+        uses: lowlighter/metrics@master
         with:
-          node-version: '14'
-        
+          token: ${{ secrets.METRICS_TOKEN }}
+
+
       - name: update header file
         run: |
           # Replace the line containing 'Original Line' with 'New Static Content'
-          sed -i 's/Original Line/New Static Content/' base.header.ejs
+          sed -i 's/Original Line/New Static Content/' action.yml
       
       - name: commit and push changes
         run: |
