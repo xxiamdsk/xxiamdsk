@@ -23,7 +23,7 @@ jobs:
       - name: update header file
         run: |
           # Replace the line containing 'Original Line' with 'New Static Content'
-          sed -i 's/Original Line/New Static Content/' action.yml
+          sed -i 's/Original Line/New Static Content/' README.md
       
       - name: commit and push changes
         run: |
