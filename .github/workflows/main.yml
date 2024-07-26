@@ -16,6 +16,11 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+      
+      - name: Set up Node.js # Optional, based on your environment
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
         
       - name: update header file
         run: |
