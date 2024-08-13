@@ -1,7 +1,3 @@
-Sure! Here’s a template for contribution guidelines for your GitHub repository named "xxiamdsk":
-
----
-
 # Contributing to xxiamdsk
 
 Thank you for considering contributing to xxiamdsk! We welcome contributions from everyone. Here are some guidelines to help you get started.
@@ -73,7 +69,3 @@ If you need any further assistance, feel free to contact me.
 Best regards,
 
 xxiamdsk
-
----
-
-Feel free to customize these guidelines to better suit the specifics of your project and your preferences. If you have a specific style guide or testing framework, you might want to include those details as well.
