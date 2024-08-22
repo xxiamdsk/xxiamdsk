@@ -113,6 +113,11 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 6
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved,skills,recent
+          plugin_leetcode_user: xxiamdsk
 
         # config_order: habits,notable, isocalendar, achievements
           plugin_topics: yes
@@ -142,7 +147,7 @@ jobs:
           plugin_achievements_threshold: X
           plugin_fortune: yes
           plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 10
+          plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved,skills,recent
           plugin_leetcode_user: xxiamdsk
