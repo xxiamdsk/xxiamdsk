@@ -126,7 +126,7 @@
     <p>
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
-          src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&column=-1&theme=transparent&margin-w=15&margin-h=15&rank=-?"
+          src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&&theme=onedark&column=-1&no-bg=true&margin-w=15&margin-h=15&rank=-?&no-frame=true"
           alt="xxiamdsk"
       /></a>
     </p>
