@@ -123,16 +123,6 @@
     <img src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=transparent&hide_border=true&" height="150" alt="streak graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=xxiamdsk&show_icons=true&rank_icon=percentile&hide_border=true&theme=transparent" height="150" lt="stats graph" />
     <br clear="both" />
-
-
-
-
-    <p>
-      <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-          src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&&theme=onedark&column=-1&no-bg=true&margin-w=15&margin-h=15&rank=-?&no-frame=true"
-          alt="xxiamdsk"
-      /></a>
-    </p>
+    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&&theme=onedark&column=-1&no-bg=true&margin-w=15&margin-h=15&rank=-?&no-frame=true" alt="xxiamdsk" />
   </div>
 </body>
