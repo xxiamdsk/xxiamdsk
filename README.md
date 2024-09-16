@@ -3,7 +3,8 @@
 
   <div>
     <picture>
-      <source media="(min-width: 817px)" srcset="primary.svg" <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <source media="(min-width: 817px)" srcset="primary.svg"  />
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
           alt="bootstrap"
@@ -11,40 +12,15 @@
           height="40"
         />
       </a>
-      <a h />
       <source
         media="(min-width: 768px) and (max-width: 816px)"
-        srcset="secondary.svg" <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a h
+        srcset="secondary.svg" 
       />
       <source
         media="(min-width: 600px) and (max-width: 767px)"
-        srcset="primary.svg" <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a h
+        srcset="primary.svg" 
       />
-      <source media="(max-width: 599px)" srcset="secondary.svg" <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a h />
+      <source media="(max-width: 599px)" srcset="secondary.svg"  />
       <img src="" alt="Please check your Internet Connection " />
     </picture>
   </div>
