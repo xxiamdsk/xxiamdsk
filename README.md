@@ -1,4 +1,4 @@
-<body style="background-color: rgb(0, 0, 0)">
+<body>
   <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
 
   <div>
@@ -18,7 +18,7 @@
   </div>
 
   <div align="center">
-    <h3 align="center">Languages Used</h3>
+    <h3 align="center" style="color: blue;">Languages Used</h3>
     <p>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
