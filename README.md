@@ -18,7 +18,7 @@
   </div>
 
   <div align="center">
-    <h3 align="center" style="color: blue;">Languages Used</h3>
+    <h3 align="center" style="color: blue;">LANGUAGES USED</h3>
     <p>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
