@@ -4,11 +4,16 @@
   <div>
     <picture>
       <source media="(min-width: 817px)" srcset="primary.svg"  />
-      <source media="(min-width: 817px)" srcset="primary.svg"  />
       <source media="(min-width: 768px) and (max-width: 816px)" srcset="secondary.svg" />
       <source media="(min-width: 600px) and (max-width: 767px)" srcset="primary.svg" />
-      <source media="(min-width: 600px) and (max-width: 767px)" srcset="primary.svg" />
       <source media="(max-width: 599px)" srcset="secondary.svg"  />
+      <img src="" alt="Please check your Internet Connection " />
+    </picture>
+  </div>
+  <div>
+    <picture>
+      <source media="(min-width: 817px)" srcset="primary.svg"  />
+      <source media="(min-width: 600px) and (max-width: 767px)" srcset="primary.svg" />
       <img src="" alt="Please check your Internet Connection " />
     </picture>
   </div>
