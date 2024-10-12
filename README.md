@@ -12,8 +12,15 @@
   </div>
   <div>
     <picture>
-      <source media="(min-width: 817px)" srcset="primary.svg"  />
-      <source media="(min-width: 600px) and (max-width: 767px)" srcset="primary.svg" />
+      <source media="(min-width: 817px)" srcset="primary2.svg"  />
+      <source media="(min-width: 600px) and (max-width: 767px)" srcset="primar2.svg" />
+      <img src="" alt="Please check your Internet Connection " />
+    </picture>
+  </div>
+  <div>
+    <picture>
+      <source media="(min-width: 817px)" srcset="primary3.svg"  />
+      <source media="(min-width: 600px) and (max-width: 767px)" srcset="primar3.svg" />
       <img src="" alt="Please check your Internet Connection " />
     </picture>
   </div>
