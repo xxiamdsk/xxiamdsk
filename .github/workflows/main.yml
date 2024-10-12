@@ -115,7 +115,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: xxiamdsk
           template: classic
-          ilename: primary2.svg
+          filename: primary2.svg
           base: ""
           extras_css: |
             h2 {
