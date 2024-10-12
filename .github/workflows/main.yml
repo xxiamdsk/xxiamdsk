@@ -15,26 +15,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Generate Primary Metrics
-        uses: lowlighter/metrics@master
-        with:
-          user: xxiamdsk
-          template: classic
-          filename: primary.svg  # Save primary.svg in root (xxiamdsk/)
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: activity, community, repositories
-          plugin_introduction: yes
-          
-
-      - name: Generate Secondary Metrics
-        uses: lowlighter/metrics@master
-        with:
-          user: xxiamdsk
-          template: repositories
-          filename: secondary.svg  # Save secondary.svg in root (xxiamdsk/)
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_repositories: yes
-
       - name: Install ImageMagick
         run: sudo apt-get install imagemagick
 
