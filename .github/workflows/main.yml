@@ -183,7 +183,6 @@ jobs:
           base_skip: yes
           config_display: large
           config_timezone: Asia/Calcutta
-          config_display: large
           repositories_forks: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
