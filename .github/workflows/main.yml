@@ -19,7 +19,7 @@ jobs:
         run: sudo apt-get install imagemagick
 
       - name: Combine Primary and Secondary Images
-        run: convert ../primary.svg ../secondary.svg -append ../primary.svg  # Combined image saved in root folder
+        run: convert primary.svg secondary.svg -append primary.svg  # Combined image saved in root folder
 
       - name: Upload Combined Image
         uses: actions/upload-artifact@v3
