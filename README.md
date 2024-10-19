@@ -10,6 +10,10 @@
       <img src="" alt="Please check your Internet Connection " />
     </picture>
   </div>
+  <div>
+    <picture>
+      <source media="(min-width: 817px)" srcset="base.svg"  />
+  </div>
 
   <div align="center">
     <h3 align="center" style="color: blue;">LANGUAGES USED</h3>
