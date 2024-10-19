@@ -162,7 +162,7 @@ jobs:
           config_display: columns
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          config_order: languages,leetcode
+          # config_order: languages,leetcode
           extras_css: |
             h2 {
             font-size: 20px;
