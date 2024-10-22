@@ -1,5 +1,16 @@
 <body>
-  <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
+
+  <h1 align="center">Hi<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Deepak Singh </h1>
+> Want to know what I'm currently working on ?\
+> Checkout [@lowlighter's todos](https://github.com/users/lowlighter/projects/9)
+> 
+> *PS: I haven't been very active on [lowlighter/metrics](https://github.com/lowlighter/metrics) recently, but I'm planning to work back on it once I finish [mizu.js](https://mizu.sh), which with [matcha.css](https://matcha.mizu.sh) and [@libs](https://github.com/lowlighter/libs) combined will make it easier to manage !*
+> 
+> *Thanks for your patience and continued support !*
+
 
   <div>
     <picture>
@@ -11,6 +22,7 @@
     </picture>
   </div>
 
+  <h1></h1>
   <div align="center">
     <h3 align="center" style="color: blue;">LANGUAGES USED</h3>
     <p>
@@ -116,7 +128,8 @@
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxiamdsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=transparent&hide_border=true&" height="150" alt="languages graph"/> -->
     <img src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=transparent&hide_border=true&" height="150" alt="streak graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=xxiamdsk&show_icons=true&rank_icon=percentile&hide_border=true&theme=transparent" height="150" lt="stats graph" />
-    <br clear="both" />
+    <h1></h1>
     <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&&theme=onedark&column=-1&no-bg=true&margin-w=15&margin-h=15&rank=-?&no-frame=true" alt="xxiamdsk" />
   </div>
+  
 </body>
