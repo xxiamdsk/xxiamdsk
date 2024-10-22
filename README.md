@@ -1,20 +1,23 @@
+> Want to know what I'm currently working on ?\
+> Checkout [@xxiamdsk's todos](https://github.com/users/xxiamdsk/projects/0)
+> 
+> *PS: I haven't been very active on [xxiamdsk/FetchIt](https://github.com/xxiamdsk/FetchIt) recently, but I'm planning to work back on it once I finish [Vue.js](https://vuejs.org/), which with [Foundation.css](https://get.foundation/) combined will make it easier to manage !*
+> 
+> *Thanks for your patience and continued support !*
 <body>
-  <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
+  <h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">, I'm Deepak Singh </h1>
 
   <div>
     <picture>
-      <source srcset="https://raw.githubusercontent.com/xxiamdsk/xxiamdsk/cf9eeb8b7dbd0eff19ee7f644fc6901a49ddccf1/base.svg"  />
+      <source media="(min-width: 817px)" srcset="primary.svg"  />
       <source media="(min-width: 768px) and (max-width: 816px)" srcset="secondary.svg" />
       <source media="(min-width: 600px) and (max-width: 767px)" srcset="primary.svg" />
       <source media="(max-width: 599px)" srcset="secondary.svg"  />
       <img src="" alt="Please check your Internet Connection " />
     </picture>
   </div>
-  <div>
-    <picture>
-      <source media="(min-width: 817px)" srcset="base.svg"  />
-  </div>
 
+  <h1></h1>
   <div align="center">
     <h3 align="center" style="color: blue;">LANGUAGES USED</h3>
     <p>
@@ -120,7 +123,8 @@
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxiamdsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=transparent&hide_border=true&" height="150" alt="languages graph"/> -->
     <img src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=transparent&hide_border=true&" height="150" alt="streak graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=xxiamdsk&show_icons=true&rank_icon=percentile&hide_border=true&theme=transparent" height="150" lt="stats graph" />
-    <br clear="both" />
+    <h1></h1>
     <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&&theme=onedark&column=-1&no-bg=true&margin-w=15&margin-h=15&rank=-?&no-frame=true" alt="xxiamdsk" />
   </div>
+  
 </body>
