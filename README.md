@@ -5,7 +5,7 @@
 > 
 > *Thanks for your patience and continued support !*
 <body>
-  <h1 align="center">Hi 👋, I'm Deepak Singh Kushwaha</h1>
+  <h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">, I'm Deepak Singh </h1>
 
   <div>
     <picture>
