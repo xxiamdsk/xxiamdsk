@@ -22,7 +22,7 @@ jobs:
           template: classic
           filename: secondary.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: activity, community, repositories
+          base: header, activity, community, repositories
           # config_order: introduction, base.activity,base.community, base.repositories,languages,discussions
           extras_css: |
             h2 {
@@ -77,7 +77,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_limit: 99
+          plugin_achievements_limit: 10
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: X
           plugin_fortune: yes
@@ -90,7 +90,7 @@ jobs:
           template: classic
           filename: primary.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: activity, community, repositories
+          base: header, activity, community, repositories
           # config_order: introduction, base.activity,base.community, base.repositories,languages,discussions
           extras_css: |
             h2 {
@@ -142,7 +142,7 @@ jobs:
           # plugin_isocalendar_duration: half-year
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_limit: 99
+          plugin_achievements_limit: 10
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: X
           plugin_fortune: yes
