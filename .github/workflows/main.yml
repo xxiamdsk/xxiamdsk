@@ -23,6 +23,7 @@ jobs:
           filename: secondary.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
+          base_hireable: yes
           # config_order: introduction, base.activity,base.community, base.repositories,languages,discussions
           extras_css: |
             h2 {
@@ -91,6 +92,7 @@ jobs:
           filename: primary.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
+          base_hireable: yes
           # config_order: introduction, base.activity,base.community, base.repositories,languages,discussions
           extras_css: |
             h2 {
