@@ -121,6 +121,7 @@
 
   <div align="center">
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxiamdsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=transparent&hide_border=true&" height="150" alt="languages graph"/> -->
+    <img src="https://git-hub-streak-stats.vercel.app?user=xxiamdsk&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     <img src="https://streak-stats.demolab.com?user=xxiamdsk&locale=en&mode=daily&theme=transparent&hide_border=true" height="150" alt="streak graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=xxiamdsk&show_icons=true&rank_icon=percentile&hide_border=true&theme=transparent" height="150" lt="stats graph" />
     <h1></h1>
