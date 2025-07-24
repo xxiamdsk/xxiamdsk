@@ -23,6 +23,18 @@
     <img src="secondary_extension.svg" alt="Secondary Graphic" class="secondary-extra-svg" /> -->
   </div>
 
+  <div>
+    <picture>
+      <source media="(min-width: 816px)" srcset="primary_extension.svg"  />
+      <source media="(min-width: 768px) and (max-width: 816px)" srcset="secondary_extension.svg" />
+      <source media="(min-width: 600px) and (max-width: 767px)" srcset="primary_extension.svg" />
+      <source media="(max-width: 598px)" srcset="secondary_extension.svg"  />
+      <img src="" alt="Please check your Internet Connection " />
+    </picture>
+<!--     <img src="primary_extension.svg" alt="Additional Graphic" class="extra-svg" />
+    <img src="secondary_extension.svg" alt="Secondary Graphic" class="secondary-extra-svg" /> -->
+  </div>
+
   <h1></h1>
   <div align="center">
     <h3 align="center" style="color: blue;">LANGUAGES USED</h3>
