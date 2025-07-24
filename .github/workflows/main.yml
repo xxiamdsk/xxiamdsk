@@ -96,6 +96,7 @@ jobs:
             font-size: 20px;
             font-weight: bold; 
             }
+          base: ""
           base_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -188,6 +189,7 @@ jobs:
             font-size: 20px;
             font-weight: bold;
             }
+          base: ""
           base_indepth: yes
           config_display: large
           plugin_achievements: yes
