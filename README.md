@@ -15,6 +15,8 @@
       <source media="(max-width: 599px)" srcset="secondary.svg"  />
       <img src="" alt="Please check your Internet Connection " />
     </picture>
+    <img src="primary_extension.svg" alt="Additional Graphic" class="extra-svg" />
+    <img src="secondary_extension.svg" alt="Secondary Graphic" class="secondary-extra-svg" />
   </div>
 
   <h1></h1>
@@ -127,4 +129,27 @@
     <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&&theme=onedark&column=-1&no-bg=true&margin-w=15&margin-h=15&rank=-?&no-frame=true" alt="xxiamdsk" />
   </div>
   
+  <style>
+  .extra-svg,
+  .secondary-extra-svg {
+    display: none;
+  }
+
+  /* Show when primary.svg is active */
+  @media (min-width: 600px) and (max-width: 767px),
+         (min-width: 817px) {
+    .extra-svg {
+      display: block;
+    }
+  }
+
+  /* Show when secondary.svg is active */
+  @media (max-width: 599px),
+         (min-width: 768px) and (max-width: 816px) {
+    .secondary-extra-svg {
+      display: block;
+    }
+  }
+</style>
+
 </body>
