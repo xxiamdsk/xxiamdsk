@@ -1,7 +1,7 @@
 > Want to know what I'm currently working on ?\
-> Checkout [@xxiamdsk's todos](https://github.com/users/xxiamdsk/projects/0)
+> Checkout [@deepaksinghrx's todos](https://github.com/users/deepaksinghrx/projects/0)
 > 
-> *PS: I haven't been very active on [xxiamdsk/FetchIt](https://github.com/xxiamdsk/FetchIt) recently, but I'm planning to work back on it once I finish [Vue.js](https://vuejs.org/), which with [Foundation.css](https://get.foundation/) combined will make it easier to manage !*
+> *PS: I haven't been very active on [deepaksinghrx/FetchIt](https://github.com/deepaksinghrx/FetchIt) recently, but I'm planning to work back on it once I finish [Vue.js](https://vuejs.org/), which with [Foundation.css](https://get.foundation/) combined will make it easier to manage !*
 > 
 > *Thanks for your patience and continued support !*
 <body>
@@ -134,11 +134,11 @@
 
 
   <div align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxiamdsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=transparent&hide_border=true&" height="150" alt="languages graph"/> -->
-    <img src="https://git-hub-streak-stats.vercel.app?user=xxiamdsk&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak" /></a>
-    <img src="https://github-readme-stats.vercel.app/api?username=xxiamdsk&show_icons=true&rank_icon=percentile&hide_border=true&theme=transparent" height="150" lt="stats graph" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaksinghrx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=transparent&hide_border=true&" height="150" alt="languages graph"/> -->
+    <img src="https://git-hub-streak-stats.vercel.app?user=deepaksinghrx&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=deepaksinghrx&show_icons=true&rank_icon=percentile&hide_border=true&theme=transparent" height="150" lt="stats graph" />
     <h1></h1>
-    <img src="https://github-profile-trophy.vercel.app/?username=xxiamdsk&&theme=onedark&column=-1&no-bg=true&margin-w=15&margin-h=15&rank=-?&no-frame=true" alt="xxiamdsk" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deepaksinghrx&&theme=onedark&column=-1&no-bg=true&margin-w=15&margin-h=15&rank=-?&no-frame=true" alt="deepaksinghrx" />
   </div>
   
 </body>
